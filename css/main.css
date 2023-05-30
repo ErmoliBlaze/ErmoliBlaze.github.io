@@ -1,0 +1,24 @@
+.category_row {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0;
+}
+.category_row1 {
+    display: flex;
+    justify-content: center;
+    margin: 300px 0;
+}
+.category__set {
+    margin: 0 150px;
+}
+.category_a {
+    text-decoration: none;
+}
+.category__text {
+    display: flex;
+    align-items: center;
+    margin-top: -280px;
+    margin-left: 80px;
+    font-size: 96px;
+    color: #ffffff; 
+}

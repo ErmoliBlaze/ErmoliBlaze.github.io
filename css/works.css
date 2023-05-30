@@ -1,0 +1,25 @@
+.works {
+    display: flex;
+    justify-content: center;
+    margin: 90px 0;
+}
+.gallery__row {
+    display: flex;
+    justify-content: center;
+}
+.gallery__row img {
+    margin: 30px;
+}
+a{
+    color: #AD7DCA;
+}
+.img__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 30px;
+    color: #AD7DCA;
+    margin-top: -10px;
+    padding-left: 90px;
+    margin-top: -20px;
+}
